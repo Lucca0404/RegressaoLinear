@@ -1,4 +1,4 @@
-# 🎧 README.md: Análise de Características de Áudio do Spotify
+# 🎧 README.md: Análise de Características de Áudio do Spotify por Lucca Nobre e Jorge Lobato
 
 ## 🔎 Visão Geral do Projeto
 
